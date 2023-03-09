@@ -1,4 +1,5 @@
 # torrent2googledrive
+Download torren to you google drive
 Open in colabr
 
 Don`t sleep, use script in console browser:
